@@ -1,0 +1,292 @@
+﻿
+[info]	23/02/2022 11:11:09	Microsoft-Windows-Time-Service	158	Ninguno	El proveedor de hora 'VMICTimeProvider' ha indicado que el hardware y el entorno operativo actuales no son compatibles y se ha detenido. Este es un comportamiento esperado para VMICTimeProvider en entornos que no son invitados de HyperV. Este también podría ser el comportamiento esperado de este proveedor en el entorno operativo actual.
+[severe]23/02/2022 11:10:25	NetBT	4319	Ninguno	Se detectó un nombre duplicado en la red TCP. La dirección IP del equipo que envió el mensaje está en los datos. Use nbtstat -n en  una ventana de comandos para ver el nombre que está en conflicto.
+[warn]	23/02/2022 11:05:49	Microsoft-Windows-DistributedCOM	10016	Ninguno	"La configuración de permisos establecido de forma predeterminada en el equipo no concede el permiso Activación Local para la aplicación de servidor COM con CLSID 
+[info]	23/02/2022 10:54:20	Microsoft-Windows-Time-Service	158	Ninguno	El proveedor de hora 'VMICTimeProvider' ha indicado que el hardware y el entorno operativo actuales no son compatibles y se ha detenido. Este es un comportamiento esperado para VMICTimeProvider en entornos que no son invitados de HyperV. Este también podría ser el comportamiento esperado de este proveedor en el entorno operativo actual.
+[warn]	23/02/2022 10:50:43	Microsoft-Windows-DistributedCOM	10016	Ninguno	"La configuración de permisos establecido de forma predeterminada en el equipo no concede el permiso Activación Local para la aplicación de servidor COM con CLSID 
+[severe]23/02/2022 10:49:00	NetBT	4319	Ninguno	Se detectó un nombre duplicado en la red TCP. La dirección IP del equipo que envió el mensaje está en los datos. Use nbtstat -n en  una ventana de comandos para ver el nombre que está en conflicto.
+[warn]	23/02/2022 10:48:43	Microsoft-Windows-DistributedCOM	10016	Ninguno	"La configuración de permisos específico de la aplicación no concede el permiso Activación Local para la aplicación de servidor COM con CLSID 
+[warn]	23/02/2022 10:48:03	Microsoft-Windows-DistributedCOM	10016	Ninguno	"La configuración de permisos establecido de forma predeterminada en el equipo no concede el permiso Activación Local para la aplicación de servidor COM con CLSID 
+[warn]	23/02/2022 10:46:46	Microsoft-Windows-DistributedCOM	10016	Ninguno	"La configuración de permisos específico de la aplicación no concede el permiso Activación Local para la aplicación de servidor COM con CLSID 
+[info]	23/02/2022 10:37:16	Microsoft-Windows-Time-Service	158	Ninguno	El proveedor de hora 'VMICTimeProvider' ha indicado que el hardware y el entorno operativo actuales no son compatibles y se ha detenido. Este es un comportamiento esperado para VMICTimeProvider en entornos que no son invitados de HyperV. Este también podría ser el comportamiento esperado de este proveedor en el entorno operativo actual.
+[warn]	23/02/2022 10:30:37	Microsoft-Windows-DistributedCOM	10016	Ninguno	"La configuración de permisos establecido de forma predeterminada en el equipo no concede el permiso Activación Local para la aplicación de servidor COM con CLSID 
+[info]	23/02/2022 10:25:01	Microsoft-Windows-Kernel-General	16	Ninguno	El historial de accesos en el subárbol \??\C:\ProgramData\Microsoft\Provisioning\Microsoft-Desktop-Provisioning-Sequence.dat se borró mediante la actualización de 0 claves y la creación de 0 páginas modificadas.
+[warn]	23/02/2022 10:20:39	Microsoft-Windows-DistributedCOM	10016	Ninguno	"La configuración de permisos establecido de forma predeterminada en el equipo no concede el permiso Activación Local para la aplicación de servidor COM con CLSID 
+[warn]	23/02/2022 10:20:33	Microsoft-Windows-DistributedCOM	10016	Ninguno	"La configuración de permisos establecido de forma predeterminada en el equipo no concede el permiso Activación Local para la aplicación de servidor COM con CLSID 
+[info]	23/02/2022 10:20:12	Microsoft-Windows-Time-Service	158	Ninguno	El proveedor de hora 'VMICTimeProvider' ha indicado que el hardware y el entorno operativo actuales no son compatibles y se ha detenido. Este es un comportamiento esperado para VMICTimeProvider en entornos que no son invitados de HyperV. Este también podría ser el comportamiento esperado de este proveedor en el entorno operativo actual.
+[severe]23/02/2022 10:17:21	NetBT	4319	Ninguno	Se detectó un nombre duplicado en la red TCP. La dirección IP del equipo que envió el mensaje está en los datos. Use nbtstat -n en  una ventana de comandos para ver el nombre que está en conflicto.
+[info]	23/02/2022 10:16:28	Service Control Manager	7040	Ninguno	El tipo de inicio del servicio Servicio de transferencia inteligente en segundo plano (BITS) se cambió de inicio automático a inicio por solicitud.
+[info]	23/02/2022 10:13:19	Service Control Manager	7045	Ninguno	"Se instaló un servicio en el sistema.
+[info]	23/02/2022 10:10:22	Service Control Manager	7040	Ninguno	El tipo de inicio del servicio Servicio de transferencia inteligente en segundo plano (BITS) se cambió de inicio por solicitud a inicio automático.
+[info]	23/02/2022 10:09:38	Service Control Manager	7040	Ninguno	El tipo de inicio del servicio Servicio de transferencia inteligente en segundo plano (BITS) se cambió de inicio automático a inicio por solicitud.
+[warn]	23/02/2022 10:09:16	Microsoft-Windows-DistributedCOM	10016	Ninguno	"La configuración de permisos específico de la aplicación no concede el permiso Activación Local para la aplicación de servidor COM con CLSID 
+[warn]	23/02/2022 10:04:48	Microsoft-Windows-DistributedCOM	10016	Ninguno	"La configuración de permisos específico de la aplicación no concede el permiso Iniciar Local para la aplicación de servidor COM con CLSID 
+[warn]	23/02/2022 10:04:48	Microsoft-Windows-DistributedCOM	10016	Ninguno	"La configuración de permisos específico de la aplicación no concede el permiso Iniciar Local para la aplicación de servidor COM con CLSID 
+[warn]	23/02/2022 10:04:48	Microsoft-Windows-DistributedCOM	10016	Ninguno	"La configuración de permisos específico de la aplicación no concede el permiso Iniciar Local para la aplicación de servidor COM con CLSID 
+[info]	23/02/2022 10:03:36	Microsoft-Windows-FilterManager	6	Ninguno	Filtro de sistema de archivos 'dbx' (6.1, ‎2019‎-‎02‎-‎11T17:39:19.000000000Z) correctamente cargado y registrado con el administrador de filtros.
+[warn]	23/02/2022 10:03:15	Microsoft-Windows-DistributedCOM	10016	Ninguno	"La configuración de permisos específico de la aplicación no concede el permiso Iniciar Local para la aplicación de servidor COM con CLSID 
+[warn]	23/02/2022 10:03:14	Microsoft-Windows-DistributedCOM	10016	Ninguno	"La configuración de permisos específico de la aplicación no concede el permiso Activación Local para la aplicación de servidor COM con CLSID 
+[warn]	23/02/2022 10:03:09	Microsoft-Windows-DistributedCOM	10016	Ninguno	"La configuración de permisos específico de la aplicación no concede el permiso Activación Local para la aplicación de servidor COM con CLSID 
+[info]	23/02/2022 10:03:08	Microsoft-Windows-Time-Service	35	Ninguno	El servicio de hora está sincronizando la hora del sistema con el origen de la hora master.mrfs.lan (ntp.d|0.0.0.0:123->10.32.1.51:123) con el id. de referencia 855711754. El número de capa local actual es 2.
+[warn]	23/02/2022 10:02:57	Microsoft-Windows-DistributedCOM	10016	Ninguno	"La configuración de permisos específico de la aplicación no concede el permiso Activación Local para la aplicación de servidor COM con CLSID 
+[info]	23/02/2022 10:02:56	Microsoft-Windows-DNS-Client	8010	(1028)	"El sistema no puede registrar los registros de recursos (RR) de punteros (PTR)  del adaptador de red
+[info]	23/02/2022 10:02:53	Microsoft-Windows-Time-Service	37	Ninguno	El proveedor de hora NtpClient está recibiendo datos de hora  válidos desde master.mrfs.lan (ntp.d|0.0.0.0:123->10.32.1.51:123).
+[info]	23/02/2022 10:02:53	Microsoft-Windows-DNS-Client	8010	(1028)	"El sistema no puede registrar los registros de recursos (RR) de punteros (PTR)  del adaptador de red
+[warn]	23/02/2022 10:02:52	Microsoft-Windows-DistributedCOM	10016	Ninguno	"La configuración de permisos específico de la aplicación no concede el permiso Activación Local para la aplicación de servidor COM con CLSID 
+[warn]	23/02/2022 10:02:52	Microsoft-Windows-DistributedCOM	10016	Ninguno	"La configuración de permisos específico de la aplicación no concede el permiso Activación Local para la aplicación de servidor COM con CLSID 
+[warn]	23/02/2022 10:02:52	Microsoft-Windows-DistributedCOM	10016	Ninguno	"La configuración de permisos específico de la aplicación no concede el permiso Activación Local para la aplicación de servidor COM con CLSID 
+[warn]	23/02/2022 10:02:52	Microsoft-Windows-DistributedCOM	10016	Ninguno	"La configuración de permisos específico de la aplicación no concede el permiso Activación Local para la aplicación de servidor COM con CLSID 
+[info]	23/02/2022 10:02:51	Microsoft-Windows-Time-Service	158	Ninguno	El proveedor de hora 'VMICTimeProvider' ha indicado que el hardware y el entorno operativo actuales no son compatibles y se ha detenido. Este es un comportamiento esperado para VMICTimeProvider en entornos que no son invitados de HyperV. Este también podría ser el comportamiento esperado de este proveedor en el entorno operativo actual.
+[info]	23/02/2022 10:02:51	Microsoft-Windows-Winlogon	7001	(1101)	Notificación de inicio de sesión de usuario para el Programa para la mejora de la experiencia del usuario
+[info]	23/02/2022 10:02:49	Microsoft-Windows-DNS-Client	8010	(1028)	"El sistema no puede registrar los registros de recursos (RR) de punteros (PTR)  del adaptador de red
+[severe]23/02/2022 10:02:48	VBoxNetLwf	12	Ninguno	El controlador detectó un error interno del controlador en \Device\VBoxNetLwf.
+[severe]23/02/2022 10:02:47	VBoxNetLwf	12	Ninguno	El controlador detectó un error interno del controlador en \Device\VBoxNetLwf.
+[info]	23/02/2022 10:02:47	Microsoft-Windows-TPM-WMI	1025	Ninguno	El TPM se aprovisionó correctamente y está listo para su uso.
+[info]	23/02/2022 10:02:47	Microsoft-Windows-TPM-WMI	1282	Ninguno	Se generó el identificador de dispositivos TBS.
+[info]	23/02/2022 10:02:46	TPM	18	Ninguno	Este evento desencadena que se ejecute la comprobación de estado/aprovisionamiento del Módulo de plataforma segura (TPM).
+[info]	23/02/2022 10:02:46	Microsoft-Windows-UserModePowerService	12	(10)	El proceso C:\Windows\System32\DriverStore\FileRepository\dptf_cpu.inf_amd64_897ea327b3fe52f7\esif_uf.exe (identificador de proceso:5132) restableció el esquema de directivas de {fb5220ff-7e1a-47aa-9a42-50ffbf45c673} a {fb5220ff-7e1a-47aa-9a42-50ffbf45c673}
+[info]	23/02/2022 10:02:46	Microsoft-Windows-UserModePowerService	12	(10)	El proceso C:\Windows\System32\DriverStore\FileRepository\dptf_cpu.inf_amd64_897ea327b3fe52f7\esif_uf.exe (identificador de proceso:5132) restableció el esquema de directivas de {fb5220ff-7e1a-47aa-9a42-50ffbf45c673} a {fb5220ff-7e1a-47aa-9a42-50ffbf45c673}
+[info]	23/02/2022 10:02:43	Microsoft-Windows-WLAN-AutoConfig	10001	Ninguno	"El módulo de extensibilidad de WLAN se inició correctamente.
+[info]	23/02/2022 10:02:43	Microsoft-Windows-WLAN-AutoConfig	4000	Ninguno	"El servicio de Configuración automática de WLAN se inició correctamente.
+[info]	23/02/2022 10:02:42	Microsoft-Windows-FilterManager	6	Ninguno	Filtro de sistema de archivos 'bindflt' (10.0, ‎2029‎-‎08‎-‎21T14:48:14.000000000Z) correctamente cargado y registrado con el administrador de filtros.
+[info]	23/02/2022 10:02:42	Microsoft-Windows-FilterManager	6	Ninguno	Filtro de sistema de archivos 'storqosflt' (10.0, ‎2007‎-‎04‎-‎09T19:08:30.000000000Z) correctamente cargado y registrado con el administrador de filtros.
+[info]	23/02/2022 10:02:42	Microsoft-Windows-FilterManager	6	Ninguno	Filtro de sistema de archivos 'CldFlt' (10.0, ‎2056‎-‎10‎-‎08T23:05:36.000000000Z) correctamente cargado y registrado con el administrador de filtros.
+[info]	23/02/2022 10:02:42	Microsoft-Windows-FilterManager	1	Ninguno	Filtro de sistema de archivos 'CldFlt' (Versión 10.0, ‎2056‎-‎10‎-‎08T23:05:36.000000000Z) correctamente descargado.
+[info]	23/02/2022 10:02:42	Microsoft-Windows-FilterManager	6	Ninguno	Filtro de sistema de archivos 'CldFlt' (10.0, ‎2056‎-‎10‎-‎08T23:05:36.000000000Z) correctamente cargado y registrado con el administrador de filtros.
+[info]	23/02/2022 10:02:42	Win32k	267	Ninguno	La comprobación de Control de calidad de hardware táctil o con teclado táctil se realizó correctamente.
+[info]	23/02/2022 10:02:42	Microsoft-Windows-FilterManager	6	Ninguno	Filtro de sistema de archivos 'wcifs' (10.0, ‎1989‎-‎06‎-‎09T23:43:09.000000000Z) correctamente cargado y registrado con el administrador de filtros.
+[info]	23/02/2022 10:02:42	Microsoft-Windows-FilterManager	6	Ninguno	Filtro de sistema de archivos 'luafv' (10.0, ‎2041‎-‎09‎-‎19T06:13:33.000000000Z) correctamente cargado y registrado con el administrador de filtros.
+[info]	23/02/2022 10:02:41	Microsoft-Windows-DHCPv6-Client	51046	Evento de estado de servicio	Servicio de cliente DHCPv6 iniciado
+[info]	23/02/2022 10:02:41	Microsoft-Windows-Dhcp-Client	50103	Evento de estado de servicio	El cliente DHCPv4 registró una la notificación de apagado
+[info]	23/02/2022 10:02:41	Microsoft-Windows-Dhcp-Client	50036	Evento de estado de servicio	Servicio cliente DHCPv4 iniciado
+[info]	23/02/2022 10:02:41	Win32k	267	Ninguno	La comprobación de Control de calidad de hardware táctil o con teclado táctil se realizó correctamente.
+[info]	23/02/2022 10:02:41	Microsoft-Windows-Directory-Services-SAM	16983	Ninguno	"El administrador de cuentas de seguridad está registrando eventos de resumen periódicos para clientes remotos que llaman un cambio de contraseña heredada o establecen métodos RPC. 
+[info]	23/02/2022 10:02:41	Microsoft-Windows-Directory-Services-SAM	16977	Ninguno	"El dominio está configurado con las siguientes opciones de configuración relacionadas con la longitud mínima de la contraseña.
+[info]	23/02/2022 10:02:41	Microsoft-Windows-Directory-Services-SAM	16962	Ninguno	"Se están restringiendo las llamadas remotas a la base de datos SAM mediante el descriptor de seguridad predeterminado: O:SYG:SYD:(A;;RC;;;BA).
+[info]	23/02/2022 10:02:41	Microsoft-Windows-Wininit	14	Ninguno	Configuración de Credential Guard: 0x0, 0
+[info]	23/02/2022 10:02:39	BTHUSB	18	Ninguno	Windows no puede almacenar códigos de autenticación de Bluetooth (claves de vínculo) en el adaptador local. Puede que los teclados Bluetooth no funcionen en el BIOS del sistema durante el inicio.
+[warn]	23/02/2022 10:02:37	Microsoft-Windows-Kernel-PnP	219	(212)	No se pudo cargar el controlador \Driver\WudfRd para el dispositivo USB\VID_04F3&PID_0C5E\5&1fb24f6d&0&7.
+[info]	23/02/2022 10:02:37	Microsoft-Windows-DriverFrameworks-UserMode	10118	Startup of the UMDF reflector	El reflector UMDF no se puede conectar al Administrador de control de servicios (SCM). Es lo que se espera durante el arranque, cuando el SCM aún no se ha iniciado. Se reintentará cuando se inicie.
+[warn]	23/02/2022 10:02:36	Microsoft-Windows-Kernel-PnP	219	(212)	No se pudo cargar el controlador \Driver\WudfRd para el dispositivo {DD8E82AE-334B-49A2-AEAE-AEB0FD5C40DD}\DetectionVerification\5&1b5d4080&0&0.
+[info]	23/02/2022 10:02:36	Microsoft-Windows-DriverFrameworks-UserMode	10118	Startup of the UMDF reflector	El reflector UMDF no se puede conectar al Administrador de control de servicios (SCM). Es lo que se espera durante el arranque, cuando el SCM aún no se ha iniciado. Se reintentará cuando se inicie.
+[info]	23/02/2022 10:02:36	Intel-SST-OED	28	This task logs error codes to system event log.	Loaded DSP FW library: Libs\dsp_lib_whm_release.bin, status = STATUS_SUCCESS.
+[info]	23/02/2022 10:02:36	Intel-SST-OED	28	This task logs error codes to system event log.	Loaded DSP FW library: Libs\dsp_lib_whm_release.bin, status = STATUS_SUCCESS.
+[info]	23/02/2022 10:02:36	Intel-SST-OED	28	This task logs error codes to system event log.	Loaded DSP FW library: Libs\dsp_lib_intel_wov_release.bin, status = STATUS_SUCCESS.
+[info]	23/02/2022 10:02:36	Microsoft-Windows-Kernel-General	24	(11)	La información de zona horaria se actualizó con el motivo de salida 0. La diferencia de zona horaria actual es -60.
+[info]	23/02/2022 10:02:36	Netwtw10	7017	Ninguno	7017 - secure boot (SB) configuration
+[info]	23/02/2022 10:02:36	Netwtw10	7010	Ninguno	7010 - driver enabled (miniport init)
+[info]	23/02/2022 10:02:36	WiManH	2	Ninguno	"No se encuentra la descripción del id. de evento 2 en el origen WiManH. El componente que provoca este evento no está instalado en el equipo local, o bien la instalación está dañada. Puede instalar o reparar el componente en el equipo local.
+[info]	23/02/2022 10:02:35	Netwtw10	7005	Ninguno	7005 - SAR value max TX power (WRDS)
+[info]	23/02/2022 10:02:35	MEIx64	2	Ninguno	Intel(R) Management Engine Interface driver has started successfully.
+[info]	23/02/2022 10:02:35	Netwtw10	7027	Ninguno	7027 - get Nic Manufacturere on init
+[info]	23/02/2022 10:02:35	Microsoft-Windows-Ntfs	98	Ninguno	Volumen \\?\Volume{07fb9859-ad78-4df0-9782-a07c197fef42} (\Device\HarddiskVolume4) es correcto. No se requiere ninguna acción.
+[info]	23/02/2022 10:02:35	Netwtw10	7036	Ninguno	El servicio \Device\NDMP2 entró en estado Intel(R) Wi-Fi 6 AX201 160MHz.
+[info]	23/02/2022 10:02:35	Microsoft-Windows-Kernel-Power	521	(220)	Cambio de número de baterías
+[info]	23/02/2022 10:02:35	Microsoft-Windows-Kernel-Power	521	(220)	Cambio de número de baterías
+[warn]	23/02/2022 10:02:35	Microsoft-Windows-Kernel-PnP	219	(212)	No se pudo cargar el controlador \Driver\WudfRd para el dispositivo SWD\DRIVERENUM\{cfabacad-7939-467c-96a7-93781d90d2d8}#WirelessButtonDriver_usersvc&3&9489f59&0.
+[info]	23/02/2022 10:02:35	Microsoft-Windows-DriverFrameworks-UserMode	10118	Startup of the UMDF reflector	El reflector UMDF no se puede conectar al Administrador de control de servicios (SCM). Es lo que se espera durante el arranque, cuando el SCM aún no se ha iniciado. Se reintentará cuando se inicie.
+[info]	23/02/2022 10:02:35	Microsoft-Windows-Kernel-Processor-Power	55	(47)	"El procesador 7 en el grupo 0 expone las siguientes funciones de administración de energía:
+[info]	23/02/2022 10:02:35	Microsoft-Windows-Kernel-Processor-Power	55	(47)	"El procesador 5 en el grupo 0 expone las siguientes funciones de administración de energía:
+[info]	23/02/2022 10:02:35	Microsoft-Windows-Kernel-Processor-Power	55	(47)	"El procesador 3 en el grupo 0 expone las siguientes funciones de administración de energía:
+[info]	23/02/2022 10:02:35	Microsoft-Windows-Kernel-Processor-Power	55	(47)	"El procesador 1 en el grupo 0 expone las siguientes funciones de administración de energía:
+[info]	23/02/2022 10:02:35	Microsoft-Windows-Kernel-Processor-Power	55	(47)	"El procesador 6 en el grupo 0 expone las siguientes funciones de administración de energía:
+[info]	23/02/2022 10:02:35	Microsoft-Windows-Kernel-Processor-Power	55	(47)	"El procesador 4 en el grupo 0 expone las siguientes funciones de administración de energía:
+[info]	23/02/2022 10:02:35	Microsoft-Windows-Kernel-Processor-Power	55	(47)	"El procesador 2 en el grupo 0 expone las siguientes funciones de administración de energía:
+[info]	23/02/2022 10:02:35	Microsoft-Windows-Kernel-Processor-Power	55	(47)	"El procesador 0 en el grupo 0 expone las siguientes funciones de administración de energía:
+[warn]	23/02/2022 10:02:35	Microsoft-Windows-Kernel-PnP	219	(212)	No se pudo cargar el controlador \Driver\WudfRd para el dispositivo PCI\VEN_8086&DEV_9A03&SUBSYS_87E1103C&REV_01\3&11583659&2&20.
+[info]	23/02/2022 10:02:35	Microsoft-Windows-DriverFrameworks-UserMode	10118	Startup of the UMDF reflector	El reflector UMDF no se puede conectar al Administrador de control de servicios (SCM). Es lo que se espera durante el arranque, cuando el SCM aún no se ha iniciado. Se reintentará cuando se inicie.
+[warn]	23/02/2022 10:02:35	Microsoft-Windows-Kernel-PnP	219	(212)	No se pudo cargar el controlador \Driver\WudfRd para el dispositivo ROOT\WindowsHelloFaceSoftwareDriver\0000.
+[info]	23/02/2022 10:02:35	Microsoft-Windows-DriverFrameworks-UserMode	10118	Startup of the UMDF reflector	El reflector UMDF no se puede conectar al Administrador de control de servicios (SCM). Es lo que se espera durante el arranque, cuando el SCM aún no se ha iniciado. Se reintentará cuando se inicie.
+[info]	23/02/2022 10:02:35	Microsoft-Windows-FilterManager	6	Ninguno	Filtro de sistema de archivos 'npsvctrig' (10.0, ‎2025‎-‎01‎-‎06T03:41:12.000000000Z) correctamente cargado y registrado con el administrador de filtros.
+[info]	23/02/2022 10:02:34	Microsoft-Windows-FilterManager	6	Ninguno	Filtro de sistema de archivos 'FileCrypt' (10.0, ‎2002‎-‎03‎-‎01T12:12:42.000000000Z) correctamente cargado y registrado con el administrador de filtros.
+[info]	23/02/2022 10:02:34	Microsoft-Windows-Ntfs	98	Ninguno	Volumen C: (\Device\HarddiskVolume3) es correcto. No se requiere ninguna acción.
+[info]	23/02/2022 10:02:33	Microsoft-Windows-FilterManager	6	Ninguno	Filtro de sistema de archivos 'WdFilter' (10.0, ‎2040‎-‎09‎-‎08T16:48:02.000000000Z) correctamente cargado y registrado con el administrador de filtros.
+[info]	23/02/2022 10:02:33	Microsoft-Windows-FilterManager	6	Ninguno	Filtro de sistema de archivos 'Wof' (10.0, ‎2024‎-‎08‎-‎23T15:35:41.000000000Z) correctamente cargado y registrado con el administrador de filtros.
+[info]	23/02/2022 10:02:33	Microsoft-Windows-FilterManager	6	Ninguno	Filtro de sistema de archivos 'FileInfo' (10.0, ‎2062‎-‎12‎-‎23T06:21:06.000000000Z) correctamente cargado y registrado con el administrador de filtros.
+[info]	23/02/2022 10:02:32	Microsoft-Windows-HAL	16	Ninguno	Se ha inicializado el informe de errores IOMMU.
+[info]	23/02/2022 10:02:32	Microsoft-Windows-Kernel-General	20	(6)	"Se ha actualizado la configuración del segundo intercalar. 
+[info]	23/02/2022 10:02:32	Microsoft-Windows-Kernel-Boot	30	(21)	El firmware notificó métricas de arranque.
+[info]	23/02/2022 10:02:32	Microsoft-Windows-Kernel-Boot	32	(58)	Bootmgr esperó la entrada del usuario durante 0 ms.
+[info]	23/02/2022 10:02:32	Microsoft-Windows-Kernel-Boot	18	(57)	Existen 0x1 opciones de arranque en este sistema.
+[info]	23/02/2022 10:02:32	Microsoft-Windows-Kernel-Boot	27	(33)	El tipo de arranque fue 0x0.
+[info]	23/02/2022 10:02:32	Microsoft-Windows-Kernel-Boot	25	(32)	La directiva del menú de arranque fue 0x1.
+[info]	23/02/2022 10:02:32	Microsoft-Windows-Kernel-Boot	238	(101)	Diferencia de zona horaria EFI: 2047. Marcas de horario de verano: 0
+[info]	23/02/2022 10:02:32	Microsoft-Windows-Kernel-Boot	20	(31)	El último estado correcto de apagado fue true. El último estado correcto de arranque fue true.
+[info]	23/02/2022 10:02:32	Microsoft-Windows-Kernel-Boot	153	(62)	La seguridad basada en virtualización (directivas: 0) es disabled.
+[info]	23/02/2022 10:02:32	Microsoft-Windows-Kernel-General	12	(1)	El sistema operativo se inició a la hora del sistema ‎2022‎-‎02‎-‎23T09:02:32.500000000Z.
+[info]	23/02/2022 10:02:24	Microsoft-Windows-Kernel-General	13	(2)	El sistema operativo se está cerrando a la hora del sistema ‎2022‎-‎02‎-‎23T09:02:24.809111600Z.
+[info]	23/02/2022 10:02:24	Microsoft-Windows-Kernel-Power	109	(103)	"El administrador de energía del kernel inició una transición de apagado.
+[warn]	23/02/2022 10:02:23	Microsoft-Windows-DNS-Client	8033	(1028)	"El sistema no pudo actualizar y quitar registros de recursos (RR) del host (A o AAAA) para el adaptador de red
+[info]	23/02/2022 10:02:22	Microsoft-Windows-WLAN-AutoConfig	4001	Ninguno	"El servicio de Configuración automática de WLAN se detuvo correctamente.
+[info]	23/02/2022 10:02:22	Netwtw10	7026	Ninguno	7026 - Dump after return from D3 after cmd
+[info]	23/02/2022 10:02:22	Netwtw10	7025	Ninguno	7025 - Dump after return from D3 before cmd 
+[warn]	23/02/2022 10:02:21	Microsoft-Windows-WLAN-AutoConfig	10002	Ninguno	"Se detuvo el módulo de extensibilidad de WLAN.
+[info]	23/02/2022 10:02:41	EventLog	6013	Ninguno	El tiempo límite del sistema es de 9 segundos.
+[info]	23/02/2022 10:02:41	EventLog	6005	Ninguno	Se inició el servicio de Registro de eventos.
+[info]	23/02/2022 10:02:41	EventLog	6009	Ninguno	Microsoft (R) Windows (R) 10.00. 19044  Multiprocessor Free.
+[info]	23/02/2022 10:02:20	Microsoft-Windows-Dhcp-Client	50037	Evento de estado de servicio	Servicio cliente DHCPv4 detenido. Valor de la marca ShutDown: 1
+[info]	23/02/2022 10:02:20	Microsoft-Windows-Dhcp-Client	50106	Evento de estado de servicio	DHCPv4 está esperando a que se detenga el servicio DHCPv6
+[info]	23/02/2022 10:02:20	Microsoft-Windows-DHCPv6-Client	51057	Evento de estado de servicio	La parada del servicio del cliente DHCPv6 está casi lista. El recuento de referencia de contexto DHCP es 1
+[info]	23/02/2022 10:02:20	Microsoft-Windows-DHCPv6-Client	51057	Evento de estado de servicio	La parada del servicio del cliente DHCPv6 está casi lista. El recuento de referencia de contexto DHCP es 1
+[info]	23/02/2022 10:02:20	Microsoft-Windows-DHCPv6-Client	51047	Evento de estado de servicio	Servicio de cliente DHCPv6 detenido. El valor de la marca ShutDown es 1
+[info]	23/02/2022 10:02:20	Microsoft-Windows-Kernel-General	1	(5)	"La hora del sistema se cambió a ‎2022‎-‎02‎-‎23T09:02:20.771191900Z de ‎2022‎-‎02‎-‎23T09:02:20.757460800Z.
+[info]	23/02/2022 10:02:20	Microsoft-Windows-Kernel-General	24	(11)	La información de zona horaria se actualizó con el motivo de salida 0. La diferencia de zona horaria actual es -60.
+[info]	23/02/2022 10:02:20	Microsoft-Windows-Dhcp-Client	50105	Evento de estado de servicio	El cliente DHCPv4 ProcessDHCPRequestForever recibió TERMINATE_EVENT
+[info]	23/02/2022 10:02:20	Microsoft-Windows-Dhcp-Client	50104	Evento de estado de servicio	El cliente DHCPv4 recibió una notificación de apagado
+[info]	23/02/2022 10:02:20	Microsoft-Windows-Time-Service	158	Ninguno	El proveedor de hora 'VMICTimeProvider' ha indicado que el hardware y el entorno operativo actuales no son compatibles y se ha detenido. Este es un comportamiento esperado para VMICTimeProvider en entornos que no son invitados de HyperV. Este también podría ser el comportamiento esperado de este proveedor en el entorno operativo actual.
+[info]	23/02/2022 10:02:20	EventLog	6006	Ninguno	Se detuvo el servicio de Registro de eventos.
+[info]	23/02/2022 10:02:19	Microsoft-Windows-Winlogon	7002	(1102)	Notificación de cierre de sesión de usuario para el Programa para la mejora de la experiencia del usuario
+[info]	23/02/2022 10:02:08	User32	1074	Ninguno	"El proceso C:\Windows\System32\RuntimeBroker.exe (MRF-PER-CTI-123) inició el Reinicio del equipo MRF-PER-CTI-123 en nombre del usuario MRFS\dlorenzo por el siguiente motivo: Otros (no planeado)
+[info]	23/02/2022 10:00:55	Microsoft-Windows-WindowsUpdateClient	19	Agente de Windows Update	Instalación correcta: Windows instaló correctamente la siguiente actualización: Actualización de inteligencia de seguridad para Microsoft Defender Antivirus - KB2267602 (Versión 1.359.751.0)
+[info]	23/02/2022 10:00:55	Service Control Manager	7045	Ninguno	"Se instaló un servicio en el sistema.
+[info]	23/02/2022 10:00:51	Microsoft-Windows-WindowsUpdateClient	43	Agente de Windows Update	Instalación iniciada: Windows ha comenzado a instalar la actualización siguiente: Actualización de inteligencia de seguridad para Microsoft Defender Antivirus - KB2267602 (Versión 1.359.751.0)
+[info]	23/02/2022 10:00:51	Microsoft-Windows-WindowsUpdateClient	44	Agente de Windows Update	Windows Update comenzó a descargar una actualización.
+[severe]23/02/2022 9:58:51	Service Control Manager	7000	Ninguno	"El servicio Compaq Dfw no pudo iniciarse debido al siguiente error: 
+[info]	23/02/2022 9:58:51	Service Control Manager	7045	Ninguno	"Se instaló un servicio en el sistema.
+[severe]23/02/2022 9:58:51	Service Control Manager	7000	Ninguno	"El servicio hpvision no pudo iniciarse debido al siguiente error: 
+[info]	23/02/2022 9:58:51	Service Control Manager	7045	Ninguno	"Se instaló un servicio en el sistema.
+[severe]23/02/2022 9:58:07	Service Control Manager	7000	Ninguno	"El servicio Compaq Dfw no pudo iniciarse debido al siguiente error: 
+[info]	23/02/2022 9:58:07	Service Control Manager	7045	Ninguno	"Se instaló un servicio en el sistema.
+[severe]23/02/2022 9:58:07	Service Control Manager	7000	Ninguno	"El servicio hpvision no pudo iniciarse debido al siguiente error: 
+[info]	23/02/2022 9:58:07	Service Control Manager	7045	Ninguno	"Se instaló un servicio en el sistema.
+[severe]23/02/2022 9:56:38	Service Control Manager	7000	Ninguno	"El servicio Compaq Dfw no pudo iniciarse debido al siguiente error: 
+[info]	23/02/2022 9:56:38	Service Control Manager	7045	Ninguno	"Se instaló un servicio en el sistema.
+[severe]23/02/2022 9:56:38	Service Control Manager	7000	Ninguno	"El servicio hpvision no pudo iniciarse debido al siguiente error: 
+[info]	23/02/2022 9:56:38	Service Control Manager	7045	Ninguno	"Se instaló un servicio en el sistema.
+[info]	23/02/2022 9:56:36	Service Control Manager	7040	Ninguno	El tipo de inicio del servicio Servicio de transferencia inteligente en segundo plano (BITS) se cambió de inicio por solicitud a inicio automático.
+[warn]	23/02/2022 9:55:36	Microsoft-Windows-DistributedCOM	10016	Ninguno	"La configuración de permisos específico de la aplicación no concede el permiso Activación Local para la aplicación de servidor COM con CLSID 
+[info]	23/02/2022 9:54:51	Service Control Manager	7040	Ninguno	El tipo de inicio del servicio Servicio de transferencia inteligente en segundo plano (BITS) se cambió de inicio automático a inicio por solicitud.
+[warn]	23/02/2022 9:52:33	Microsoft-Windows-DistributedCOM	10016	Ninguno	"La configuración de permisos específico de la aplicación no concede el permiso Iniciar Local para la aplicación de servidor COM con CLSID 
+[warn]	23/02/2022 9:52:33	Microsoft-Windows-DistributedCOM	10016	Ninguno	"La configuración de permisos específico de la aplicación no concede el permiso Iniciar Local para la aplicación de servidor COM con CLSID 
+[warn]	23/02/2022 9:52:33	Microsoft-Windows-DistributedCOM	10016	Ninguno	"La configuración de permisos específico de la aplicación no concede el permiso Iniciar Local para la aplicación de servidor COM con CLSID 
+[info]	23/02/2022 9:51:36	Microsoft-Windows-FilterManager	6	Ninguno	Filtro de sistema de archivos 'dbx' (6.1, ‎2019‎-‎02‎-‎11T17:39:19.000000000Z) correctamente cargado y registrado con el administrador de filtros.
+[info]	23/02/2022 9:51:17	Microsoft-Windows-Kernel-General	16	Ninguno	El historial de accesos en el subárbol \??\C:\Users\dlorenzo\AppData\Local\Packages\AppUp.IntelGraphicsExperience_8j3eq9eme6ctt\Settings\settings.dat se borró mediante la actualización de 1 claves y la creación de 1 páginas modificadas.
+[warn]	23/02/2022 9:51:14	Microsoft-Windows-DistributedCOM	10016	Ninguno	"La configuración de permisos específico de la aplicación no concede el permiso Activación Local para la aplicación de servidor COM con CLSID 
+[warn]	23/02/2022 9:51:11	Microsoft-Windows-DistributedCOM	10016	Ninguno	"La configuración de permisos específico de la aplicación no concede el permiso Iniciar Local para la aplicación de servidor COM con CLSID 
+[warn]	23/02/2022 9:51:07	Microsoft-Windows-DistributedCOM	10016	Ninguno	"La configuración de permisos específico de la aplicación no concede el permiso Activación Local para la aplicación de servidor COM con CLSID 
+[warn]	23/02/2022 9:50:56	Microsoft-Windows-DistributedCOM	10016	Ninguno	"La configuración de permisos específico de la aplicación no concede el permiso Activación Local para la aplicación de servidor COM con CLSID 
+[info]	23/02/2022 9:50:53	Microsoft-Windows-Time-Service	35	Ninguno	El servicio de hora está sincronizando la hora del sistema con el origen de la hora master.mrfs.lan (ntp.d|0.0.0.0:123->10.32.1.51:123) con el id. de referencia 855711754. El número de capa local actual es 2.
+[warn]	23/02/2022 9:50:51	Microsoft-Windows-DistributedCOM	10016	Ninguno	"La configuración de permisos específico de la aplicación no concede el permiso Activación Local para la aplicación de servidor COM con CLSID 
+[warn]	23/02/2022 9:50:51	Microsoft-Windows-DistributedCOM	10016	Ninguno	"La configuración de permisos específico de la aplicación no concede el permiso Activación Local para la aplicación de servidor COM con CLSID 
+[warn]	23/02/2022 9:50:51	Microsoft-Windows-DistributedCOM	10016	Ninguno	"La configuración de permisos específico de la aplicación no concede el permiso Activación Local para la aplicación de servidor COM con CLSID 
+[warn]	23/02/2022 9:50:51	Microsoft-Windows-DistributedCOM	10016	Ninguno	"La configuración de permisos específico de la aplicación no concede el permiso Activación Local para la aplicación de servidor COM con CLSID 
+[info]	23/02/2022 9:50:50	Microsoft-Windows-Winlogon	7001	(1101)	Notificación de inicio de sesión de usuario para el Programa para la mejora de la experiencia del usuario
+[info]	23/02/2022 9:50:41	Microsoft-Windows-DNS-Client	8010	(1028)	"El sistema no puede registrar los registros de recursos (RR) de punteros (PTR)  del adaptador de red
+[info]	23/02/2022 9:50:38	Microsoft-Windows-Time-Service	37	Ninguno	El proveedor de hora NtpClient está recibiendo datos de hora  válidos desde master.mrfs.lan (ntp.d|0.0.0.0:123->10.32.1.51:123).
+[info]	23/02/2022 9:50:38	Microsoft-Windows-DNS-Client	8010	(1028)	"El sistema no puede registrar los registros de recursos (RR) de punteros (PTR)  del adaptador de red
+[info]	23/02/2022 9:50:36	Microsoft-Windows-Time-Service	158	Ninguno	El proveedor de hora 'VMICTimeProvider' ha indicado que el hardware y el entorno operativo actuales no son compatibles y se ha detenido. Este es un comportamiento esperado para VMICTimeProvider en entornos que no son invitados de HyperV. Este también podría ser el comportamiento esperado de este proveedor en el entorno operativo actual.
+[info]	23/02/2022 9:50:35	Microsoft-Windows-DNS-Client	8010	(1028)	"El sistema no puede registrar los registros de recursos (RR) de punteros (PTR)  del adaptador de red
+[severe]23/02/2022 9:50:33	VBoxNetLwf	12	Ninguno	El controlador detectó un error interno del controlador en \Device\VBoxNetLwf.
+[severe]23/02/2022 9:50:32	VBoxNetLwf	12	Ninguno	El controlador detectó un error interno del controlador en \Device\VBoxNetLwf.
+[info]	23/02/2022 9:50:32	Microsoft-Windows-TPM-WMI	1025	Ninguno	El TPM se aprovisionó correctamente y está listo para su uso.
+[info]	23/02/2022 9:50:31	Microsoft-Windows-TPM-WMI	1282	Ninguno	Se generó el identificador de dispositivos TBS.
+[info]	23/02/2022 9:50:31	TPM	18	Ninguno	Este evento desencadena que se ejecute la comprobación de estado/aprovisionamiento del Módulo de plataforma segura (TPM).
+[info]	23/02/2022 9:50:31	Microsoft-Windows-UserModePowerService	12	(10)	El proceso C:\Windows\System32\DriverStore\FileRepository\dptf_cpu.inf_amd64_897ea327b3fe52f7\esif_uf.exe (identificador de proceso:5876) restableció el esquema de directivas de {fb5220ff-7e1a-47aa-9a42-50ffbf45c673} a {fb5220ff-7e1a-47aa-9a42-50ffbf45c673}
+[info]	23/02/2022 9:50:31	Microsoft-Windows-UserModePowerService	12	(10)	El proceso C:\Windows\System32\DriverStore\FileRepository\dptf_cpu.inf_amd64_897ea327b3fe52f7\esif_uf.exe (identificador de proceso:5876) restableció el esquema de directivas de {fb5220ff-7e1a-47aa-9a42-50ffbf45c673} a {fb5220ff-7e1a-47aa-9a42-50ffbf45c673}
+[info]	23/02/2022 9:50:28	Microsoft-Windows-WLAN-AutoConfig	10001	Ninguno	"El módulo de extensibilidad de WLAN se inició correctamente.
+[info]	23/02/2022 9:50:28	Microsoft-Windows-WLAN-AutoConfig	4000	Ninguno	"El servicio de Configuración automática de WLAN se inició correctamente.
+[info]	23/02/2022 9:50:27	Win32k	267	Ninguno	La comprobación de Control de calidad de hardware táctil o con teclado táctil se realizó correctamente.
+[info]	23/02/2022 9:50:27	Microsoft-Windows-FilterManager	6	Ninguno	Filtro de sistema de archivos 'bindflt' (10.0, ‎2029‎-‎08‎-‎21T14:48:14.000000000Z) correctamente cargado y registrado con el administrador de filtros.
+[info]	23/02/2022 9:50:27	Microsoft-Windows-FilterManager	6	Ninguno	Filtro de sistema de archivos 'storqosflt' (10.0, ‎2007‎-‎04‎-‎09T19:08:30.000000000Z) correctamente cargado y registrado con el administrador de filtros.
+[info]	23/02/2022 9:50:27	Microsoft-Windows-FilterManager	6	Ninguno	Filtro de sistema de archivos 'CldFlt' (10.0, ‎2056‎-‎10‎-‎08T23:05:36.000000000Z) correctamente cargado y registrado con el administrador de filtros.
+[info]	23/02/2022 9:50:27	Microsoft-Windows-FilterManager	1	Ninguno	Filtro de sistema de archivos 'CldFlt' (Versión 10.0, ‎2056‎-‎10‎-‎08T23:05:36.000000000Z) correctamente descargado.
+[info]	23/02/2022 9:50:27	Microsoft-Windows-FilterManager	6	Ninguno	Filtro de sistema de archivos 'CldFlt' (10.0, ‎2056‎-‎10‎-‎08T23:05:36.000000000Z) correctamente cargado y registrado con el administrador de filtros.
+[info]	23/02/2022 9:50:27	Microsoft-Windows-FilterManager	6	Ninguno	Filtro de sistema de archivos 'luafv' (10.0, ‎2041‎-‎09‎-‎19T06:13:33.000000000Z) correctamente cargado y registrado con el administrador de filtros.
+[info]	23/02/2022 9:50:27	Microsoft-Windows-FilterManager	6	Ninguno	Filtro de sistema de archivos 'wcifs' (10.0, ‎1989‎-‎06‎-‎09T23:43:09.000000000Z) correctamente cargado y registrado con el administrador de filtros.
+[info]	23/02/2022 9:50:26	Microsoft-Windows-DHCPv6-Client	51046	Evento de estado de servicio	Servicio de cliente DHCPv6 iniciado
+[info]	23/02/2022 9:50:26	Microsoft-Windows-Dhcp-Client	50103	Evento de estado de servicio	El cliente DHCPv4 registró una la notificación de apagado
+[info]	23/02/2022 9:50:26	Microsoft-Windows-Dhcp-Client	50036	Evento de estado de servicio	Servicio cliente DHCPv4 iniciado
+[info]	23/02/2022 9:50:26	Win32k	267	Ninguno	La comprobación de Control de calidad de hardware táctil o con teclado táctil se realizó correctamente.
+[info]	23/02/2022 9:50:25	Microsoft-Windows-Directory-Services-SAM	16983	Ninguno	"El administrador de cuentas de seguridad está registrando eventos de resumen periódicos para clientes remotos que llaman un cambio de contraseña heredada o establecen métodos RPC. 
+[info]	23/02/2022 9:50:25	Microsoft-Windows-Directory-Services-SAM	16977	Ninguno	"El dominio está configurado con las siguientes opciones de configuración relacionadas con la longitud mínima de la contraseña.
+[info]	23/02/2022 9:50:25	Microsoft-Windows-Directory-Services-SAM	16962	Ninguno	"Se están restringiendo las llamadas remotas a la base de datos SAM mediante el descriptor de seguridad predeterminado: O:SYG:SYD:(A;;RC;;;BA).
+[info]	23/02/2022 9:50:25	Microsoft-Windows-Wininit	14	Ninguno	Configuración de Credential Guard: 0x0, 0
+[info]	23/02/2022 9:50:23	BTHUSB	18	Ninguno	Windows no puede almacenar códigos de autenticación de Bluetooth (claves de vínculo) en el adaptador local. Puede que los teclados Bluetooth no funcionen en el BIOS del sistema durante el inicio.
+[warn]	23/02/2022 9:50:21	Microsoft-Windows-Kernel-PnP	219	(212)	No se pudo cargar el controlador \Driver\WudfRd para el dispositivo USB\VID_04F3&PID_0C5E\5&1fb24f6d&0&7.
+[info]	23/02/2022 9:50:21	Microsoft-Windows-DriverFrameworks-UserMode	10118	Startup of the UMDF reflector	El reflector UMDF no se puede conectar al Administrador de control de servicios (SCM). Es lo que se espera durante el arranque, cuando el SCM aún no se ha iniciado. Se reintentará cuando se inicie.
+[warn]	23/02/2022 9:50:20	Microsoft-Windows-Kernel-PnP	219	(212)	No se pudo cargar el controlador \Driver\WudfRd para el dispositivo {DD8E82AE-334B-49A2-AEAE-AEB0FD5C40DD}\DetectionVerification\5&1b5d4080&0&0.
+[info]	23/02/2022 9:50:20	Microsoft-Windows-DriverFrameworks-UserMode	10118	Startup of the UMDF reflector	El reflector UMDF no se puede conectar al Administrador de control de servicios (SCM). Es lo que se espera durante el arranque, cuando el SCM aún no se ha iniciado. Se reintentará cuando se inicie.
+[info]	23/02/2022 9:50:20	Intel-SST-OED	28	This task logs error codes to system event log.	Loaded DSP FW library: Libs\dsp_lib_whm_release.bin, status = STATUS_SUCCESS.
+[info]	23/02/2022 9:50:20	Intel-SST-OED	28	This task logs error codes to system event log.	Loaded DSP FW library: Libs\dsp_lib_whm_release.bin, status = STATUS_SUCCESS.
+[info]	23/02/2022 9:50:20	Intel-SST-OED	28	This task logs error codes to system event log.	Loaded DSP FW library: Libs\dsp_lib_intel_wov_release.bin, status = STATUS_SUCCESS.
+[info]	23/02/2022 9:50:20	Microsoft-Windows-Kernel-General	24	(11)	La información de zona horaria se actualizó con el motivo de salida 0. La diferencia de zona horaria actual es -60.
+[info]	23/02/2022 9:50:20	Netwtw10	7017	Ninguno	7017 - secure boot (SB) configuration
+[info]	23/02/2022 9:50:20	Netwtw10	7010	Ninguno	7010 - driver enabled (miniport init)
+[info]	23/02/2022 9:50:19	WiManH	2	Ninguno	"No se encuentra la descripción del id. de evento 2 en el origen WiManH. El componente que provoca este evento no está instalado en el equipo local, o bien la instalación está dañada. Puede instalar o reparar el componente en el equipo local.
+[info]	23/02/2022 9:50:19	MEIx64	2	Ninguno	Intel(R) Management Engine Interface driver has started successfully.
+[info]	23/02/2022 9:50:19	Netwtw10	7005	Ninguno	7005 - SAR value max TX power (WRDS)
+[info]	23/02/2022 9:50:19	Microsoft-Windows-Ntfs	98	Ninguno	Volumen \\?\Volume{07fb9859-ad78-4df0-9782-a07c197fef42} (\Device\HarddiskVolume4) es correcto. No se requiere ninguna acción.
+[info]	23/02/2022 9:50:19	Netwtw10	7027	Ninguno	7027 - get Nic Manufacturere on init
+[info]	23/02/2022 9:50:19	Netwtw10	7036	Ninguno	El servicio \Device\NDMP2 entró en estado Intel(R) Wi-Fi 6 AX201 160MHz.
+[info]	23/02/2022 9:50:19	Microsoft-Windows-Kernel-Power	521	(220)	Cambio de número de baterías
+[info]	23/02/2022 9:50:19	Microsoft-Windows-Kernel-Power	521	(220)	Cambio de número de baterías
+[warn]	23/02/2022 9:50:19	Microsoft-Windows-Kernel-PnP	219	(212)	No se pudo cargar el controlador \Driver\WudfRd para el dispositivo SWD\DRIVERENUM\{cfabacad-7939-467c-96a7-93781d90d2d8}#WirelessButtonDriver_usersvc&3&9489f59&0.
+[info]	23/02/2022 9:50:19	Microsoft-Windows-DriverFrameworks-UserMode	10118	Startup of the UMDF reflector	El reflector UMDF no se puede conectar al Administrador de control de servicios (SCM). Es lo que se espera durante el arranque, cuando el SCM aún no se ha iniciado. Se reintentará cuando se inicie.
+[info]	23/02/2022 9:50:19	Microsoft-Windows-Kernel-Processor-Power	55	(47)	"El procesador 7 en el grupo 0 expone las siguientes funciones de administración de energía:
+[info]	23/02/2022 9:50:19	Microsoft-Windows-Kernel-Processor-Power	55	(47)	"El procesador 5 en el grupo 0 expone las siguientes funciones de administración de energía:
+[info]	23/02/2022 9:50:19	Microsoft-Windows-Kernel-Processor-Power	55	(47)	"El procesador 3 en el grupo 0 expone las siguientes funciones de administración de energía:
+[info]	23/02/2022 9:50:19	Microsoft-Windows-Kernel-Processor-Power	55	(47)	"El procesador 1 en el grupo 0 expone las siguientes funciones de administración de energía:
+[info]	23/02/2022 9:50:19	Microsoft-Windows-Kernel-Processor-Power	55	(47)	"El procesador 6 en el grupo 0 expone las siguientes funciones de administración de energía:
+[info]	23/02/2022 9:50:19	Microsoft-Windows-Kernel-Processor-Power	55	(47)	"El procesador 4 en el grupo 0 expone las siguientes funciones de administración de energía:
+[info]	23/02/2022 9:50:19	Microsoft-Windows-Kernel-Processor-Power	55	(47)	"El procesador 2 en el grupo 0 expone las siguientes funciones de administración de energía:
+[info]	23/02/2022 9:50:19	Microsoft-Windows-Kernel-Processor-Power	55	(47)	"El procesador 0 en el grupo 0 expone las siguientes funciones de administración de energía:
+[warn]	23/02/2022 9:50:19	Microsoft-Windows-Kernel-PnP	219	(212)	No se pudo cargar el controlador \Driver\WudfRd para el dispositivo PCI\VEN_8086&DEV_9A03&SUBSYS_87E1103C&REV_01\3&11583659&2&20.
+[info]	23/02/2022 9:50:19	Microsoft-Windows-DriverFrameworks-UserMode	10118	Startup of the UMDF reflector	El reflector UMDF no se puede conectar al Administrador de control de servicios (SCM). Es lo que se espera durante el arranque, cuando el SCM aún no se ha iniciado. Se reintentará cuando se inicie.
+[warn]	23/02/2022 9:50:19	Microsoft-Windows-Kernel-PnP	219	(212)	No se pudo cargar el controlador \Driver\WudfRd para el dispositivo ROOT\WindowsHelloFaceSoftwareDriver\0000.
+[info]	23/02/2022 9:50:19	Microsoft-Windows-DriverFrameworks-UserMode	10118	Startup of the UMDF reflector	El reflector UMDF no se puede conectar al Administrador de control de servicios (SCM). Es lo que se espera durante el arranque, cuando el SCM aún no se ha iniciado. Se reintentará cuando se inicie.
+[info]	23/02/2022 9:50:19	Microsoft-Windows-FilterManager	6	Ninguno	Filtro de sistema de archivos 'npsvctrig' (10.0, ‎2025‎-‎01‎-‎06T03:41:12.000000000Z) correctamente cargado y registrado con el administrador de filtros.
+[info]	23/02/2022 9:50:19	Microsoft-Windows-FilterManager	6	Ninguno	Filtro de sistema de archivos 'FileCrypt' (10.0, ‎2002‎-‎03‎-‎01T12:12:42.000000000Z) correctamente cargado y registrado con el administrador de filtros.
+[info]	23/02/2022 9:50:18	Microsoft-Windows-Ntfs	98	Ninguno	Volumen C: (\Device\HarddiskVolume3) es correcto. No se requiere ninguna acción.
+[info]	23/02/2022 9:50:17	Microsoft-Windows-FilterManager	6	Ninguno	Filtro de sistema de archivos 'WdFilter' (10.0, ‎2040‎-‎09‎-‎08T16:48:02.000000000Z) correctamente cargado y registrado con el administrador de filtros.
+[info]	23/02/2022 9:50:17	Microsoft-Windows-FilterManager	6	Ninguno	Filtro de sistema de archivos 'Wof' (10.0, ‎2024‎-‎08‎-‎23T15:35:41.000000000Z) correctamente cargado y registrado con el administrador de filtros.
+[info]	23/02/2022 9:50:17	Microsoft-Windows-FilterManager	6	Ninguno	Filtro de sistema de archivos 'FileInfo' (10.0, ‎2062‎-‎12‎-‎23T06:21:06.000000000Z) correctamente cargado y registrado con el administrador de filtros.
+[info]	23/02/2022 9:50:17	Microsoft-Windows-HAL	16	Ninguno	Se ha inicializado el informe de errores IOMMU.
+[info]	23/02/2022 9:50:16	Microsoft-Windows-Kernel-General	20	(6)	"Se ha actualizado la configuración del segundo intercalar. 
+[info]	23/02/2022 9:50:16	Microsoft-Windows-Kernel-Boot	30	(21)	El firmware notificó métricas de arranque.
+[info]	23/02/2022 9:50:16	Microsoft-Windows-Kernel-Boot	32	(58)	Bootmgr esperó la entrada del usuario durante 0 ms.
+[info]	23/02/2022 9:50:16	Microsoft-Windows-Kernel-Boot	18	(57)	Existen 0x1 opciones de arranque en este sistema.
+[info]	23/02/2022 9:50:16	Microsoft-Windows-Kernel-Boot	27	(33)	El tipo de arranque fue 0x0.
+[info]	23/02/2022 9:50:16	Microsoft-Windows-Kernel-Boot	25	(32)	La directiva del menú de arranque fue 0x1.
+[info]	23/02/2022 9:50:16	Microsoft-Windows-Kernel-Boot	238	(101)	Diferencia de zona horaria EFI: 2047. Marcas de horario de verano: 0
+[info]	23/02/2022 9:50:16	Microsoft-Windows-Kernel-Boot	20	(31)	El último estado correcto de apagado fue true. El último estado correcto de arranque fue true.
+[info]	23/02/2022 9:50:16	Microsoft-Windows-Kernel-Boot	153	(62)	La seguridad basada en virtualización (directivas: 0) es disabled.
+[info]	23/02/2022 9:50:16	Microsoft-Windows-Kernel-General	12	(1)	El sistema operativo se inició a la hora del sistema ‎2022‎-‎02‎-‎23T08:50:16.500000000Z.
+[info]	23/02/2022 9:50:09	Microsoft-Windows-Kernel-General	13	(2)	El sistema operativo se está cerrando a la hora del sistema ‎2022‎-‎02‎-‎23T08:50:09.059239600Z.
+[info]	23/02/2022 9:50:08	Microsoft-Windows-Kernel-Power	109	(103)	"El administrador de energía del kernel inició una transición de apagado.
+[warn]	23/02/2022 9:50:07	Microsoft-Windows-DNS-Client	8033	(1028)	"El sistema no pudo actualizar y quitar registros de recursos (RR) del host (A o AAAA) para el adaptador de red
+[info]	23/02/2022 9:50:05	Microsoft-Windows-WLAN-AutoConfig	4001	Ninguno	"El servicio de Configuración automática de WLAN se detuvo correctamente.
+[info]	23/02/2022 9:50:05	Netwtw10	7026	Ninguno	7026 - Dump after return from D3 after cmd
+[info]	23/02/2022 9:50:05	Netwtw10	7025	Ninguno	7025 - Dump after return from D3 before cmd 
+[warn]	23/02/2022 9:50:05	Microsoft-Windows-WLAN-AutoConfig	10002	Ninguno	"Se detuvo el módulo de extensibilidad de WLAN.
+[info]	23/02/2022 9:50:04	Microsoft-Windows-Dhcp-Client	50037	Evento de estado de servicio	Servicio cliente DHCPv4 detenido. Valor de la marca ShutDown: 1
+[info]	23/02/2022 9:50:04	Microsoft-Windows-Dhcp-Client	50106	Evento de estado de servicio	DHCPv4 está esperando a que se detenga el servicio DHCPv6
+[info]	23/02/2022 9:50:04	Microsoft-Windows-DHCPv6-Client	51057	Evento de estado de servicio	La parada del servicio del cliente DHCPv6 está casi lista. El recuento de referencia de contexto DHCP es 1
+[info]	23/02/2022 9:50:04	Microsoft-Windows-DHCPv6-Client	51057	Evento de estado de servicio	La parada del servicio del cliente DHCPv6 está casi lista. El recuento de referencia de contexto DHCP es 1
+[info]	23/02/2022 9:50:04	Microsoft-Windows-DHCPv6-Client	51047	Evento de estado de servicio	Servicio de cliente DHCPv6 detenido. El valor de la marca ShutDown es 1
+[info]	23/02/2022 9:50:04	Microsoft-Windows-Dhcp-Client	50105	Evento de estado de servicio	El cliente DHCPv4 ProcessDHCPRequestForever recibió TERMINATE_EVENT
+[info]	23/02/2022 9:50:04	Microsoft-Windows-Dhcp-Client	50104	Evento de estado de servicio	El cliente DHCPv4 recibió una notificación de apagado
+[info]	23/02/2022 9:50:27	EventLog	6013	Ninguno	El tiempo límite del sistema es de 10 segundos.
+[info]	23/02/2022 9:50:27	EventLog	6005	Ninguno	Se inició el servicio de Registro de eventos.
+[info]	23/02/2022 9:50:27	EventLog	6009	Ninguno	Microsoft (R) Windows (R) 10.00. 19044  Multiprocessor Free.
+[info]	23/02/2022 9:50:04	Microsoft-Windows-Kernel-General	1	(5)	"La hora del sistema se cambió a ‎2022‎-‎02‎-‎23T08:50:04.732964400Z de ‎2022‎-‎02‎-‎23T08:50:04.722437300Z.
+[info]	23/02/2022 9:50:04	Microsoft-Windows-Kernel-General	24	(11)	La información de zona horaria se actualizó con el motivo de salida 0. La diferencia de zona horaria actual es -60.
+[info]	23/02/2022 9:50:04	EventLog	6006	Ninguno	Se detuvo el servicio de Registro de eventos.
+[info]	23/02/2022 9:50:03	Microsoft-Windows-Winlogon	7002	(1102)	Notificación de cierre de sesión de usuario para el Programa para la mejora de la experiencia del usuario
+[info]	23/02/2022 9:49:52	User32	1074	Ninguno	"El proceso C:\Windows\System32\RuntimeBroker.exe (MRF-PER-CTI-123) inició el Reinicio del equipo MRF-PER-CTI-123 en nombre del usuario MRFS\dlorenzo por el siguiente motivo: Otros (no planeado)
+[info]	23/02/2022 9:49:06	Microsoft-Windows-Kernel-General	16	Ninguno	El historial de accesos en el subárbol \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\NVIDIACorp.NVIDIAControlPanel_8.1.961.0_x64__56jybvy8sckqj\ActivationStore.dat se borró mediante la actualización de 0 claves y la creación de 0 páginas modificadas.
+[info]	23/02/2022 9:48:08	Service Control Manager	7045	Ninguno	"Se instaló un servicio en el sistema.
+[info]	23/02/2022 9:46:48	Microsoft-Windows-FilterManager	6	Ninguno	Filtro de sistema de archivos 'dbx' (6.1, ‎2019‎-‎02‎-‎11T17:39:19.000000000Z) correctamente cargado y registrado con el administrador de filtros.
+[info]	23/02/2022 9:46:48	Microsoft-Windows-FilterManager	1	Ninguno	Filtro de sistema de archivos 'dbx' (Versión 6.1, ‎2019‎-‎02‎-‎11T17:39:19.000000000Z) correctamente descargado.
+[warn]	23/02/2022 9:46:30	Microsoft-Windows-DistributedCOM	10016	Ninguno	"La configuración de permisos específico de la aplicación no concede el permiso Activación Local para la aplicación de servidor COM con CLSID 
+[info]	23/02/2022 9:45:24	Intel-SST-OED	28	This task logs error codes to system event log.	Loaded DSP FW library: Libs\dsp_lib_whm_release.bin, status = STATUS_SUCCESS.
+[info]	23/02/2022 9:45:24	Intel-SST-OED	28	This task logs error codes to system event log.	Loaded DSP FW library: Libs\dsp_lib_whm_release.bin, status = STATUS_SUCCESS.
+[info]	23/02/2022 9:45:24	Intel-SST-OED	28	This task logs error codes to system event log.	Loaded DSP FW library: Libs\dsp_lib_intel_wov_release.bin, status = STATUS_SUCCESS.
+[info]	23/02/2022 9:42:49	Microsoft-Windows-WLAN-AutoConfig	10001	Ninguno	"El módulo de extensibilidad de WLAN se inició correctamente.
+[warn]	23/02/2022 9:42:49	Microsoft-Windows-WLAN-AutoConfig	10002	Ninguno	"Se detuvo el módulo de extensibilidad de WLAN.
+[info]	23/02/2022 9:42:49	Netwtw10	7017	Ninguno	7017 - secure boot (SB) configuration
+[info]	23/02/2022 9:42:49	Netwtw10	7010	Ninguno	7010 - driver enabled (miniport init)
+[info]	23/02/2022 9:42:49	Netwtw10	7005	Ninguno	7005 - SAR value max TX power (WRDS)
+[info]	23/02/2022 9:42:49	Netwtw10	7027	Ninguno	7027 - get Nic Manufacturere on init
+[info]	23/02/2022 9:42:49	Netwtw10	7036	Ninguno	El servicio \Device\NDMP17 entró en estado Intel(R) Wi-Fi 6 AX201 160MHz.
+[info]	23/02/2022 9:42:48	Netwtw10	8000	Ninguno	8000 - Miniport Halt flow (driver disable)
+[warn]	23/02/2022 9:39:35	Microsoft-Windows-DistributedCOM	10016	Ninguno	"La configuración de permisos específico de la aplicación no concede el permiso Iniciar Local para la aplicación de servidor COM con CLSID 
